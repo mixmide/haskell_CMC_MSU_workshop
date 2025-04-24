@@ -1,0 +1,1 @@
+{"movie": {"@title": "Titanic", "@director": "James Cameron", "scene": [{"@number": "1", "timestamp": [{"@unit": "min", "#text": "5"}, "6", "7"], "title": "Departure"}, {"@number": "2", "timestamp": ["23:39", {"@format": "sec", "#text": "3600"}, "23:40"], "title": "Iceberg Ahead"}]}}

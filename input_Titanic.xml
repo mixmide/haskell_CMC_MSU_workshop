@@ -1,0 +1,14 @@
+<movie title="Titanic" director="James Cameron">
+    <scene number="1">
+        <title>Departure</title>
+        <timestamp unit="min">5</timestamp>
+        <timestamp>6</timestamp>
+        <timestamp>7</timestamp>
+    </scene>
+    <scene number="2">
+        <title>Iceberg Ahead</title>
+        <timestamp>23:39</timestamp>
+        <timestamp format="sec">3600</timestamp>
+        <timestamp>23:40</timestamp>
+    </scene>
+</movie>
